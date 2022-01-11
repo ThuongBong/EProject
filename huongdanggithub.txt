@@ -1,0 +1,12 @@
+
+B1: clone code lần đầu tiên khi chưa có code của respo github trên máy
+git clone https://github.com/ThuongBong/EProjectSem1.git
+
+B2: code thêm file như bt
+
+B3: tạo nhánh của baladken để không ảnh hưởng đến nhánh code chính
+git checkout -b"baladken"
+
+thoả mái tung hoành. có gì lead review lại ok mới merge vào nhánh chính
+review sai lead chịu :))
+B4: Quay lại phần commit như đã được hướng dẫn

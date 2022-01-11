@@ -10,3 +10,16 @@ git checkout -b"baladken"
 thoả mái tung hoành. có gì lead review lại ok mới merge vào nhánh chính
 review sai lead chịu :))
 B4: Quay lại phần commit như đã được hướng dẫn
+
+
+Sau khi commit lên nhánh
+
+B1: Tạo compare & pull request
+
+trên github.com
+
+xong bấm vào create pull request
+
+ok B2:
+
+vào máy lead
